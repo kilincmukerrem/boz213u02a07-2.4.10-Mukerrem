@@ -1,2 +1,4 @@
 # boz213u02a07-2.4.10-Mukerrem
-belirli bir matematik işlemini yapan program
+
+Şu işlemi yapar;
+* $$3x^3 - 2x^2 + 3x - 1$$
